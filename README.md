@@ -1,2 +1,2 @@
 # uikitdrawing_ios
-Testing out UIKit drawing.
+Example of utilising the UIKit for drawing on iOS
